@@ -1,8 +1,8 @@
-#Saya di sini membuat aplikasi pengaduan / aspirasi siswa siswi di semua sekolah
+# Saya di sini membuat aplikasi pengaduan / aspirasi siswa siswi di semua sekolah
 
 Project ini saya kembangkan sendiri menggunakan flutter dan yang lain lain 
 
-## Getting Started
+* perkenalkan nama saya : Nauval Faiz
 
 This project is a starting point for a Flutter application.
 
