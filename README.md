@@ -9,4 +9,6 @@ Project ini saya kembangkan sendiri menggunakan flutter dan yang lain lain
 
 Project ini saya kembangkan sendiri menggunakan flutter dan yang lain lain 
 
-``` untuk link design di Figma 
+``` 
+https://www.figma.com/design/Q78bmZgAst4Bdu1ADyS3oq/Wahyu-Surya-Tirta-s-team-library--Copy-?node-id=3357-499&t=SWTZYjU09eipyxl1-1 
+```
