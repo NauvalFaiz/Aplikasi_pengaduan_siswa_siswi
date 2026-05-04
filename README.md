@@ -9,4 +9,4 @@ Project ini saya kembangkan sendiri menggunakan flutter dan yang lain lain
 
 Project ini saya kembangkan sendiri menggunakan flutter dan yang lain lain 
 
-*** untuk link design di Figma ***
+``` untuk link design di Figma 
